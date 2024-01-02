@@ -1,1 +1,1 @@
-# Simple-Image-Processing-Program
+# Simple Image Processing Program
